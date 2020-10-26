@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Diagnal_assignment</string>
+    <string name="category_name">Romantic comedy</string>
+    <string name="fileNotFoundException">FileNotFoundException</string>
+    <string name="noDataError">No more movies in this category!</string>
+    <string name="searchByTitle">Search by title..</string>
+
+</resources>
